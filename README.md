@@ -1,2 +1,2 @@
-# pancodex-web-ste
-A Web site application for Pancodex CMS
+# pancodex-website
+A web application for Pancodex CMS
